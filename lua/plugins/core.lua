@@ -10,6 +10,7 @@ return {
   { "terryma/vim-multiple-cursors" },
   { "tpope/vim-fugitive" },
   { "tpope/vim-eunuch" },
+  { "tpope/vim-dispatch" },
 
   -- colorschemes
   { "tanvirtin/monokai.nvim", opts = {} },
