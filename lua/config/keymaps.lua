@@ -5,3 +5,4 @@
 local map = vim.keymap.set
 
 map("n", "<leader>gg", ":tab G<cr>")
+map("t", "<Esc>", "<C-\\><C-n>")
